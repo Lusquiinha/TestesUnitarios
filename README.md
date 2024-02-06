@@ -20,7 +20,7 @@ Os testes estão na pasta `tests\` e a classe está implementada em `src\StringT
 
 Um exemplo do uso de cada método é imprimido ao executar esse comando no diretorio de origem:
 ```
-python main.py
+python exemplos.py
 ```
 
 e para realizar os testes é preciso executar:
